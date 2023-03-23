@@ -1,7 +1,7 @@
 > Autor: María Sofía Fregona <p>
 > Estado: finalizado
 
-# Diferencias salariales <p>
+# Diferencias salariales <p> 
 
 ### *   Datasets: <p> 
 Datos relacionados al ámbito laboral para los empleados de una compañía <p>
